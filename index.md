@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[mylinks](https://github.com/liuwei-tianshu/MyWebpage/edit/gh-pages/links.md)
+[mylinks](../links)
 
 ### Jekyll Themes
 
