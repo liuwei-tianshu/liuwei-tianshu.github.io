@@ -27,17 +27,11 @@ Education
 2019- 
 :   **PhD, Computer Science**; Concordia University
 
-    *Thesis title: *
-
 Sept. 2012 – June 2014
 :   **BSc, Software Engineering**; Wuhan University of Technology
-
-    **
     
 Sept. 2008 – June 2012
 :   **BSc, Computer Science**; Wuhan University of Technology
-
-    **
 
 
 Employment
