@@ -13,9 +13,7 @@ Interests
 ---------
 
 * Software analysis
-
 * Software testing
-
 * Software performance
 
 
@@ -24,18 +22,15 @@ Education
 
 2019- 
 :   **PhD, Computer Science**; Concordia University
-
     *Thesis title: *
 
 2007-2010
-:   **BSc, Computer Science**; Wuhan University of Technology
-
-    *Minor: Awesomeology*
+:   **BSc, Software Engineering**; Wuhan University of Technology
+    **
     
 2007-2010
 :   **BSc, Computer Science**; Wuhan University of Technology
-
-    *Minor: Awesomeology*
+    **
 
 
 Experience
