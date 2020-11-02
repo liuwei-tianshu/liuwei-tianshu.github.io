@@ -43,6 +43,6 @@ Sept. 2008 – June 2012
 Employment
 ---------
 July 2014 – Oct. 2016
-:   **Alibaba (China) Co., Ltd. Hangzhou, China.**; Concordia University
+:   **Alibaba (China) Co., Ltd. Hangzhou, China.**;
 
     *Software Engineer, Team of Taobao*
