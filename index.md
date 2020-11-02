@@ -10,5 +10,17 @@ Wei Liu received the bachelor’s degree in computer science and the master’s 
 Education
 ---------
 
+2019- 
+:   **PhD, Computer Science**; Concordia University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+:   **BSc, Computer Science**; Wuhan University of Technology (HomeTown)
+
+    *Minor: Awesomeology*
+
+
 Experience
 ---------
