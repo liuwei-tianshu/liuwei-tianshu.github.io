@@ -48,6 +48,6 @@ July 2014 – Oct. 2016
 Topics Labs
 ---------
 
-* [Shan Lu]http://people.cs.uchicago.edu/~shanlu/
+* [Shan Lu](http://people.cs.uchicago.edu/~shanlu/)
 * 
 * 
