@@ -28,8 +28,10 @@ Education
 2019- 
 :   **PhD, Computer Science**; Concordia University
 
+
 Sept. 2012 – June 2014
 :   **BSc, Software Engineering**; Wuhan University of Technology
+    
     
 Sept. 2008 – June 2012
 :   **BSc, Computer Science**; Wuhan University of Technology
@@ -39,9 +41,7 @@ Sept. 2008 – June 2012
 Employment
 ---------
 July 2014 – Oct. 2016
-:   **Alibaba (China) Co., Ltd. Hangzhou, China.**;
-
-    *Software Engineer, Team of Taobao*
+:   **Alibaba (China) Co., Ltd. Hangzhou, China.**;*Software Engineer, Team of Taobao*
     
 
 
@@ -53,4 +53,4 @@ Topics Labs
 
 Research Resources
 ---------
-[Link](http://people.cs.uchicago.edu/~shanlu/)
+[Link](/resources)
