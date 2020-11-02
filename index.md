@@ -21,7 +21,6 @@ Interests
 * Software performance
 
 
-
 Education
 ---------
 
@@ -30,12 +29,11 @@ Education
 
 
 Sept. 2012 – June 2014
-:   **BSc, Software Engineering**; Wuhan University of Technology
+:   **MSc, Software Engineering**; Wuhan University of Technology
     
     
 Sept. 2008 – June 2012
 :   **BSc, Computer Science**; Wuhan University of Technology
-
 
 
 Employment
@@ -44,13 +42,7 @@ July 2014 – Oct. 2016
 :   **Alibaba (China) Co., Ltd. Hangzhou, China.**;*Software Engineer, Team of Taobao*
     
 
-
 Topics Labs
 ---------
 
 * [Shan Lu](http://people.cs.uchicago.edu/~shanlu/)
-* 
-
-Research Resources
----------
-[Link](/resources)
