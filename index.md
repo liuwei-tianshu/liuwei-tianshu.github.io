@@ -21,6 +21,7 @@ Interests
 * Software performance
 
 
+
 Education
 ---------
 
@@ -34,6 +35,7 @@ Sept. 2008 – June 2012
 :   **BSc, Computer Science**; Wuhan University of Technology
 
 
+
 Employment
 ---------
 July 2014 – Oct. 2016
@@ -42,9 +44,10 @@ July 2014 – Oct. 2016
     *Software Engineer, Team of Taobao*
     
 
-Topic Links
+
+Topics Labs
 ---------
 
-* Software analysis
-* Software testing
-* Software performance
+* [Shan Lu]http://people.cs.uchicago.edu/~shanlu/
+* 
+* 
