@@ -50,4 +50,7 @@ Topics Labs
 
 * [Shan Lu](http://people.cs.uchicago.edu/~shanlu/)
 * 
-* 
+
+Research Resources
+---------
+[Link](http://people.cs.uchicago.edu/~shanlu/)
