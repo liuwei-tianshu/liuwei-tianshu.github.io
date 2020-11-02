@@ -30,12 +30,12 @@ Education
 
     *Thesis title: *
 
-2007-2010
+Sept. 2012 – June 2014
 :   **BSc, Software Engineering**; Wuhan University of Technology
 
     **
     
-2007-2010
+Sept. 2008 – June 2012
 :   **BSc, Computer Science**; Wuhan University of Technology
 
     **
