@@ -1,4 +1,9 @@
 Wei Liu
+
+liuwei.tianshu@gmail.com
+
+Concordia Universiy
+
 ============
 
 ----
@@ -22,14 +27,17 @@ Education
 
 2019- 
 :   **PhD, Computer Science**; Concordia University
+
     *Thesis title: *
 
 2007-2010
 :   **BSc, Software Engineering**; Wuhan University of Technology
+
     **
     
 2007-2010
 :   **BSc, Computer Science**; Wuhan University of Technology
+
     **
 
 
