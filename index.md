@@ -14,6 +14,7 @@ Concordia Universiy
 
 ----
 
+
 Interests
 ---------
 
@@ -41,5 +42,9 @@ Sept. 2008 – June 2012
     **
 
 
-Experience
+Employment
 ---------
+July 2014 – Oct. 2016
+:   **Alibaba (China) Co., Ltd. Hangzhou, China.**; Concordia University
+
+    *Software Engineer, Team of Taobao*
