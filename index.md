@@ -26,6 +26,7 @@ Education
 
 2019- 
 :   **PhD, Computer Science**; Concordia University
+
     *supervised by Prof. [Tse-Hsun (Peter) Chen](http://petertsehsun.github.io/)*
 
 Sept. 2012 – June 2014
