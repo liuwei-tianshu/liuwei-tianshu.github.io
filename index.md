@@ -30,6 +30,7 @@ Education
     *Supervised by Prof.* [Tse-Hsun (Peter) Chen](http://petertsehsun.github.io/)
 
 
+
 Sept. 2012 – June 2014
 :   **MSc, Software Engineering**; Wuhan University of Technology
     
@@ -37,6 +38,7 @@ Sept. 2012 – June 2014
  
 Sept. 2008 – June 2012
 :   **BSc, Computer Science**; Wuhan University of Technology
+
 
 
 Employment
