@@ -40,7 +40,7 @@ Sept. 2008 – June 2012
 Employment
 ---------
 July 2014 – Oct. 2016
-:   **Alibaba (China) Co., Ltd. Hangzhou, China.**;*Software Engineer, Team of Taobao*
+:   **Alibaba (China) Co., Ltd. Hangzhou, China.**; *Software Engineer, Team of Taobao*
     
 
 Topics Labs
