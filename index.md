@@ -47,3 +47,4 @@ Topics Labs
 
 * [Shan Lu](http://people.cs.uchicago.edu/~shanlu/)
 * [Mark Harman](http://www0.cs.ucl.ac.uk/staff/mharman/)
+* [Zhendong Su](https://people.inf.ethz.ch/suz/)
