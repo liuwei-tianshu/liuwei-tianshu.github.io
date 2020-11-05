@@ -45,6 +45,6 @@ July 2014 – Oct. 2016
 Topics Labs
 ---------
 
-* [Shan Lu](http://people.cs.uchicago.edu/~shanlu/)
-* [Mark Harman](http://www0.cs.ucl.ac.uk/staff/mharman/)
-* [Zhendong Su](https://people.inf.ethz.ch/suz/)
+* [Shan Lu, Software Reliability, Program Analysis](http://people.cs.uchicago.edu/~shanlu/)
+* [Mark Harman, Fault locating, Test cases](http://www0.cs.ucl.ac.uk/staff/mharman/)
+* [Zhendong Su, DBMS testing](https://people.inf.ethz.ch/suz/)
